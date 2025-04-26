@@ -67,19 +67,6 @@ This project builds a machine learning pipeline to predict short-term COVID-19 p
 **Spatial Analysis:**
 * Moran's I = **0.42** (p < 0.01), indicating strong positive spatial autocorrelation of prediction errors.
 
----
-
-## 🛠 Tools and Libraries
-* Python 3.9
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* scikit-learn
-* tensorflow / keras
-* geopandas
-* libpysal
-* esda
 
 ---
 
